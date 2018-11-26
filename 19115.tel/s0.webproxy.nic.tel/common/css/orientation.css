@@ -1,0 +1,40 @@
+
+
+
+/* For portrait */
+
+@media screen and (orientation: portrait) {
+  #header {
+     position: fixed;
+	
+  }
+ 
+  
+  #breadcrumbs {
+   position:fixed;
+ }  
+
+ 
+ #footer  {
+   position:fixed;
+ }
+}
+
+/* For landscape */
+
+@media screen and (orientation: landscape) {
+  #header {
+    position: absolute;
+  }
+
+  
+   #breadcrumbs {
+   position:absolute;
+ }  
+ 
+ 
+  #footer  {
+   position:static;
+ }
+ 
+}

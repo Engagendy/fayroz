@@ -1,0 +1,3 @@
+#search-bar{border-bottom:4px solid #000080;margin:5px 0;padding:0 10px;overflow:hidden}#search-bar input{margin:0 0 6px 0;padding:0}#search-bar #search-input{border:1px solid #e1e1e1;float:left;height:20px;margin-right:5px}#search-bar #search-submit{float:left}div.imgad-cap{display:none}#movie-panel{display:none;margin:10px 0 8px 3px}
+#movie-panel div.movie{margin:0;padding:3px;background:#fff;width:280px;height:220px;overflow:hidden}a.delayed_activation{pointer-events:none;cursor:progress}
+#footer{position: fixed; bottom: 0px; width: 100%; height: 110px; background-color: #f8e69f;border-top:4px solid #2a6d7e;}
